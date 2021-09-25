@@ -6,7 +6,7 @@ We want to compare the performance between actively management funds vs ETF/Mark
 2. Is there any association between daily covid19 cases and the Market?
 
 ## Analysis Methodology
-Through the use of financial ratios we will compare, returns, volatility, and risk of actively managed mutual funds vs the passive index solutions (S&P 500).
+Through the use of financail ratios we will compare, returns, volatility, and risk of actively managed mutual funds vs the passive index solutions (S&P 500).
 We will also look at covid cases and deaths to see what effects they have on the market
 
 
